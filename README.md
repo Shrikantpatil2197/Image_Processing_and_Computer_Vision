@@ -1,1 +1,1 @@
-# image_processing_and_computer_vision_coursework
+# Image_Processing_and_Computer_Vision
